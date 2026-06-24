@@ -142,6 +142,7 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 0 24px; }
 .pub-title a { color: var(--oxford-blue); border-bottom-color: rgba(0, 33, 71, 0.25); }
 .pub-meta { margin: 0 0 2px !important; color: var(--ink); font-size: 15px; }
 .pub-authors { margin: 0 !important; color: var(--muted); font-size: 15px; }
+.pub-note { margin: 18px 0 0; color: var(--muted); font-size: 15px; font-style: italic; }
 
 /* Footer */
 .site-footer {
